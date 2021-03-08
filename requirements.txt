@@ -1,2 +1,4 @@
-nose
-sphinx
+pyspark
+fastapi
+uvicorn
+pandas

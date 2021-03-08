@@ -12,13 +12,13 @@ with open('LICENSE') as f:
     license = f.read()
 
 setup(
-    name='sample',
+    name='demo',
     version='0.1.0',
-    description='Sample package for Python-Guide.org',
+    description='Avaliação em Python by Silverio Leite Jr - (11)96020 6334 ',
     long_description=readme,
-    author='Kenneth Reitz',
-    author_email='me@kennethreitz.com',
-    url='https://github.com/kennethreitz/samplemod',
+    author='Silverio Leite Jr',
+    author_email='silverio.leitejr@og1.com.br',
+    url='https://github.com/silverioleitejr/avaliacao-python',
     license=license,
     packages=find_packages(exclude=('tests', 'docs'))
 )
